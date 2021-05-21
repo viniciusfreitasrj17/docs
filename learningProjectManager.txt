@@ -1,0 +1,32 @@
+Ambientes:
+	Local
+	Test / Homolog
+	Produção
+
+Jira: 
+	Fluxo:
+		Pendentes
+		Em Progresso
+		Pronto para Teste
+		Em Teste
+		Finalizado / em develop
+		Concluído / em master
+
+Softwares:
+	Jira / Sprint / Scrum
+	Github / Repo
+	Miro ou Cawemo / Wireframe / Fluxos / BPMN
+	XD ou Figma / Wireframe / Protótipo
+	AWS ou GCP / Cloud
+	Discord ou Telegram / Social
+
+Rotina Scrumm:
+	Daily
+	Outras pessoa testando um Pull Request
+	Review da semana
+	Flag de Impeditivo
+	Fluxo de entrega contínua:
+		PR para a develop
+		em teste
+		passado do teste, PR para master
+		em prod
